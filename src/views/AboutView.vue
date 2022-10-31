@@ -1,5 +1,6 @@
 <template>
   <div class="about">
-    <h1>Hola</h1>
+    <h1>liste article
+    </h1>
   </div>
 </template>
